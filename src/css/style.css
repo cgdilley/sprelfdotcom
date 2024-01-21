@@ -1,0 +1,46 @@
+body {
+    padding: 40px;
+    background-color: #353235;
+    overflow-x: hidden; /* For Opera */
+    -webkit-box-shadow:
+            inset #5D576B 0 0 0 5px,
+            inset #AA5EA2 0 0 0 6px,
+            inset #5D576B 0 0 0 10px,
+            inset #AA5EA2 0 0 0 11px,
+            inset #5D576B 0 0 0 16px;
+    -moz-box-shadow:
+            inset #5D576B 0 0 0 5px,
+            inset #AA5EA2 0 0 0 6px,
+            inset #5D576B 0 0 0 10px,
+            inset #AA5EA2 0 0 0 11px,
+            inset #5D576B 0 0 0 16px;
+    box-shadow:
+            inset #5D576B 0 0 0 5px,
+            inset #AA5EA2 0 0 0 6px,
+            inset #5D576B 0 0 0 10px,
+            inset #AA5EA2 0 0 0 11px,
+            inset #5D576B 0 0 0 16px;
+    color: #EEF0F2;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: xxx-large;
+    font-family: monospace;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    color: #AA5EA2
+}
+
+a {
+    color: #AA5EA2;
+}
+
+p {
+    font-size: large
+}
+
+ul {
+    font-size: large
+}
